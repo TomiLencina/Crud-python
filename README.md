@@ -6,6 +6,6 @@ Esta es  mi primer aplicacion de consola CRUD, hecha con el lenguaje python...
  -Editar/Actualizar un libro/registro previamente cargado
  -Eliminar un libro almacenado...
  
- https://raw.githubusercontent.com/TomiLencina/Crud-python/master/Screenshot_15.png
+ Imagen de muestra:
  
  https://github.com/TomiLencina/Crud-python/blob/887a96a9bc41088af47b831954005071233ebfac/Screenshot_15.png
